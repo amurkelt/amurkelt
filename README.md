@@ -19,15 +19,10 @@
 ![confluence](https://img.shields.io/static/v1?logo=confluence&label=&message=confluence&color=36465D&logoColor=AAA&style=flat-square)
 ![versiondog](https://img.shields.io/static/v1?logo=datadog&label=&message=versiondog&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![zettelkasten](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![obsidian](https://img.shields.io/static/v1?logo=obsidian&label=&message=obsidian&color=36465D&logoColor=8B5CF6&style=flat-square)
 
 **Game Developer** &#12299;_fueled by a curiosity about how the things I’ve enjoyed as a hobby are created_
 <br/>
 **Middle PLC Engineer** &#12299;_specialised in PLC control systems & Warehouse Automation_
-<br/>
-**People-centric mindset** &#12299;_building, sharing, and improving the quality of department knowledge_
 
 ----
 
