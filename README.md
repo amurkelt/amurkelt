@@ -19,14 +19,14 @@
 ![versiondog](https://img.shields.io/static/v1?logo=datadog&label=&message=versiondog&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
-**Game Developer** &#12299;_fueled by a curiosity about how the things I’ve enjoyed as a hobby are created_
+**Game Developer** &#12299;_fueled by a Curiosity about how the Things I enjoy are created_
 <br/>
 **Middle PLC Engineer** &#12299;_specialised in PLC control systems & Warehouse Automation_
 
 ----
 
 <a href="https://www.linkedin.com/in/ataras/">
-  <img align="left" alt="Andrei's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Andrei's LinkedIn" width="20px" src="https://simpleicons.now.sh/expertsexchange/495f7e" />
 </a>
 <a href="https://www.instagram.com/arkwlr/">
   <img align="left" alt="Andrei's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
